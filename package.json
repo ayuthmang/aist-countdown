@@ -1,0 +1,14 @@
+{
+  "name": "aist-countdown",
+  "version": "1.0.0",
+  "repository": "https://github.com/blacksourcez/aist-countdown.git",
+  "author": "Ayuth Mangmesap <ayuth.mang@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "live-server ."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
