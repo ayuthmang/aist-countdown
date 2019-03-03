@@ -22,7 +22,6 @@ new Vue({
         }
     },
     created: function() {
-        console.log(this);
         setInterval(() => {
             this.currentTime = moment();
         }, 1000)
